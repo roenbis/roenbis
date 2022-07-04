@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Bekzat Bagdatuly</h1>
-<h3 align="center">Student at IITU🌟.</h3>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Bekzat Bagdatuly</h1>
+<h3 align="center">Student at IITU.</h3>
 
 <br>
 
@@ -19,3 +19,8 @@
 
 <br>
 
+<h1>Streak Stats</h1>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bekzatbb&theme=algolia" alt="bekzatbb" /></p>
+
+<br>
