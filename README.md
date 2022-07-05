@@ -6,12 +6,11 @@
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=bekzatbb&label=Profile%20views&color=0e75b6&style=flat"
     alt="bekzatbb" /> 
-  </p>
+</p>
 
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="bekzatbb" /></p>
-
 
 - 💻 I’m Web Developer
 
@@ -21,7 +20,7 @@
 
 <h1>Stats</h1>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bekzatbb&theme=algolia" alt="bekzatbb" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bekzatbb&theme=vue-dark" alt="bekzatbb" /></p>
 
 <br>
 
