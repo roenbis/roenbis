@@ -4,14 +4,16 @@
 
 <br>
 
-<p align="right"> 
-	<h3>Profile Views :-</h3> 
+<p align="left"> 
+	<h3>Profile Views</h3> 
 	<img src="https://komarev.com/ghpvc/?username=bekzatbb&label=Profile%20views&color=42b883&style=flat" alt="bekzatbb" /> 
 </p>
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="bekzatbb" /></p>
+<p>
+	<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="bekzatbb" />
+</p>
 
 - 💻 I’m Web Developer
 
@@ -31,12 +33,8 @@
 
 <br/>
 
-<p align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="bekzatbb's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bekzatbb&show_icons=true&count_private=true&theme=vue-dark" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="bekzatbb's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bekzatbb&show_icons=true&count_private=true&theme=vue-dark" height="192px"/></a>
 	
-<br/>
-
-&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bekzatbb&langs_count=10&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="bekzatbb" height="192px"/>
 
 <br/>
