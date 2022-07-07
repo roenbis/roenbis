@@ -33,7 +33,7 @@
 
 <br/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="bekzatbb's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bekzatbb&show_icons=true&count_private=true&theme=vue-dark" height="192px"/></a>
+<img alt="bekzatbb's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bekzatbb&show_icons=true&count_private=true&theme=vue-dark" height="192px"/>
 	
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bekzatbb&langs_count=10&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="bekzatbb" height="192px"/>
 
