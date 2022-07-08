@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Bekzat Bagdatuly</h1>
-<center><img align="center" src="https://readme-typing-svg.herokuapp.com?color=42B883&background=35495E00&lines=I+want+to+master+all+techniques+;to+understand+the+truth+of+this+;world.+-+Orochimaru"></center>
+<p align="center">
+	<img align="center" src="https://readme-typing-svg.herokuapp.com?color=42B883&background=35495E00&lines=I+want+to+master+all+techniques+;to+understand+the+truth+of+this+;world.+-+Orochimaru">
+</p>
 <h3 align="center">Student at IITU.</h3>
 
 <br>
@@ -26,11 +28,11 @@
 
 <h1>Technology Stack</h1>
 
-![Assembly]() *learning*
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) *learning*
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) *learning*
-![C#]() *learning*
-![V]() *learning*
+<!-- ![Assembly]() *learning* -->
+<!-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) *learning* -->
+<!-- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) *learning* -->
+<!-- ![C#]() *learning* -->
+ <!--![V]() *learning* -->
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
