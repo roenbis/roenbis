@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Bekzat Bagdatuly</h1>
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=42B883&background=35495E00&lines=I+want+to+master+all+techniques+;to+understand+the+truth+of+this+;world.+-+Orochimaru">
+<center><img align="center" src="https://readme-typing-svg.herokuapp.com?color=42B883&background=35495E00&lines=I+want+to+master+all+techniques+;to+understand+the+truth+of+this+;world.+-+Orochimaru"></center>
 <h3 align="center">Student at IITU.</h3>
 
 <br>
