@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Bekzat Bagdatuly</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=42B883&background=35495E00&lines=I+want+to+master+all+techniques+;to+understand+the+truth+of+this+;world.+-+Orochimaru)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?color=42B883&background=35495E00&lines=I+want+to+master+all+techniques+;to+understand+the+truth+of+this+;world.+-+Orochimaru">
 <h3 align="center">Student at IITU.</h3>
 
 <br>
