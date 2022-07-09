@@ -31,13 +31,13 @@
 <!-- ![Assembly]() *learning* -->
 <!-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) *learning* -->
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<!-- ![C#]() *learning* -->
+![C#](https://img.shields.io/badge/C#%2B%2B-00599C?style=for-the-badge&logo=csharp%2B%2B&logoColor=white)
 <!-- ![V]() *learning* -->
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+<!-- ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) -->
 <!-- ![TypeScript]() *learning* -->
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-CC6699?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -45,27 +45,29 @@
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 <!-- ![PostCSS]() *learning* -->
 
-![React]()
+![React](https://img.shields.io/badge/React-CC6699?style=for-the-badge&logo=react&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-CC6699?style=for-the-badge&logo=vue&logoColor=white)
 <!-- ![Angular]() *learning* -->
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) *learning*
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) *learning*
-![ASP.Net]() *learning*
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<!-- ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) *learning* -->
+<!-- ![ASP.Net]() *learning* -->
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-![PostgreSQL]() *learning*
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) *learning*
+<!-- ![PostgreSQL]() *learning* -->
+<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) *learning* -->
 
+<!--
 ![Figma]()
 ![GIMP]()
 ![Inkspace]()
-![Blender]() *learning*
+![Blender]()
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+-->
 
-![WebStorm]()
+![WebStorm](https://img.shields.io/badge/webstorm-%23575757.svg?&style=for-the-badge&logo=webstorm&logoColor=important)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Vim]() *learning*
 ![Unity]() *learning*
@@ -89,7 +91,9 @@
 
 <br/>
 
-<img alt="bekzatbb's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bekzatbb&show_icons=true&count_private=true&theme=vue-dark" height="192px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bekzatbb&langs_count=10&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="bekzatbb" height="192px"/>
+<p align="center">
+	<img alt="bekzatbb's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bekzatbb&show_icons=true&count_private=true&theme=vue-dark" height="192px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bekzatbb&langs_count=10&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="bekzatbb" height="192px"/>
+</p>
 
 <br/>
 
