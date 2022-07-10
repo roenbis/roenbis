@@ -29,9 +29,9 @@
 <h1>Technology Stack</h1>
 
 <!-- ![Assembly]() *learning* -->
-<!-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) *learning* -->
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C#%2B%2B-00599C?style=for-the-badge&logo=csharp%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C#%2B%2B-00599C?style=for-the-badge&logo=cs%2B%2B&logoColor=white)
 <!-- ![V]() *learning* -->
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -69,9 +69,8 @@
 
 ![WebStorm](https://img.shields.io/badge/webstorm-%23575757.svg?&style=for-the-badge&logo=webstorm&logoColor=important)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
-![Vim]() *learning*
-![Unity]() *learning*
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) *learning*
+![Vim]() 
+<!-- ![Unity]() -->
 
 ![iPhone](https://img.shields.io/badge/iPhone-3DDC84?style=for-the-badge&logo=ios&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
