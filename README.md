@@ -31,7 +31,7 @@
 <!-- ![Assembly]() *learning* -->
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C#%2B%2B-00599C?style=for-the-badge&logo=cs%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=csharp&logoColor=white)
 <!-- ![V]() *learning* -->
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
