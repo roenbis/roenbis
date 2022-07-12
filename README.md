@@ -68,7 +68,7 @@
 
 ![WebStorm](https://img.shields.io/badge/webstorm-%23575757.svg?&style=for-the-badge&logo=webstorm&logoColor=important)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
-![Vim](https://img.shields.io/badge/Vim%2B%2B-00599C?style=for-the-badge&logo=vim%2B%2B&logoColor=white) 
+![Vim](https://img.shields.io/badge/Vim-00599C?style=for-the-badge&logo=vim&logoColor=white) 
 <!-- ![Unity]() -->
 
 ![iPhone](https://img.shields.io/badge/iPhone-3DDC84?style=for-the-badge&logo=ios&logoColor=white)
