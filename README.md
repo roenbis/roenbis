@@ -46,7 +46,7 @@
 <!-- ![PostCSS]() *learning* -->
 
 ![React](https://img.shields.io/badge/React-CC6699?style=for-the-badge&logo=react&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-CC6699?style=for-the-badge&logo=vue&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-CC6699?style=for-the-badge&logo=v&logoColor=white)
 <!-- ![Angular]() *learning* -->
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
