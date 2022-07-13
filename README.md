@@ -19,7 +19,7 @@
 </p>
 
 - 💻 I’m Web Developer
-- 🎛️ I’m DJ
+<!-- - 🎛️ I’m DJ -->
 - 🏀 I Like Play Basketball
 - 👥 I’m Looking Forward To Collaborate On Open Source Projects.
 - 📫 How To Reach Me **noobilis@protonmail.com**
