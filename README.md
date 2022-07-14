@@ -45,7 +45,7 @@
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 <!-- ![PostCSS]() *learning* -->
 
-![React](https://img.shields.io/badge/React-CC6699?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=v&logoColor=white)
 <!-- ![Angular]() *learning* -->
 
