@@ -19,9 +19,6 @@
 </p>
 
 - 💻 I’m Web Developer
-<!-- - 🎛️ I’m DJ -->
-- 🏀 I Like Play Basketball
-- 👥 I’m Looking Forward To Collaborate On Open Source Projects.
 - 📫 How To Reach Me **noobilis@protonmail.com**
 
 <br>
@@ -36,8 +33,7 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-<!-- ![TypeScript]() *learning* -->
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <!--- ![TypeScript]() *learning* -->
 ![Vue](https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=v&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-CC6699?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
@@ -67,7 +63,6 @@
 <!-- ![Unity]() -->
 
 ![iPhone](https://img.shields.io/badge/iPhone-3DDC84?style=for-the-badge&logo=ios&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 <br>
