@@ -27,16 +27,16 @@
 ![C#](https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=csharp&logoColor=white)
 <!-- ![V]() *learning* -->
 
-<p align="center">
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <!--- ![TypeScript]() *learning* -->
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+<!--- ![TypeScript]() *learning* -->
+
 ![Vue](https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=v&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-CC6699?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 <!-- ![PostCSS]() *learning* -->
-</p>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![ASP.Net](https://img.shields.io/badge/asp.net-5D2D92?style=for-the-badge&logo=.net&logoColor=white)
