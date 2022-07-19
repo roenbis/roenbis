@@ -23,7 +23,6 @@
 
 <!-- ![Assembly]() *learning* -->
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=csharp&logoColor=white)
 <!-- ![V]() *learning* -->
 
@@ -38,7 +37,7 @@
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 <!-- ![PostCSS]() *learning* -->
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/nuxt-6DA55F?style=for-the-badge&logo=nuxt&logoColor=white)
 ![ASP.Net](https://img.shields.io/badge/asp.net-5D2D92?style=for-the-badge&logo=.net&logoColor=white)
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
@@ -55,7 +54,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 -->
 
-![WebStorm](https://img.shields.io/badge/webstorm-%23575757.svg?&style=for-the-badge&logo=webstorm&logoColor=important)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Vim](https://img.shields.io/badge/Vim-00599C?style=for-the-badge&logo=vim&logoColor=white) 
 <!-- ![Unity]() -->
