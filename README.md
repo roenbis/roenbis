@@ -3,21 +3,11 @@
 <p align="center">
 	<img align="center" src="https://readme-typing-svg.herokuapp.com?color=42B883&background=35495E00&lines=I+want+to+master+all+techniques+;to+understand+the+truth+of+this+;world.+-+Orochimaru">
 </p>
-<h3 align="center">Student at IITU.</h3>
-
-<br>
 
 <p align="left"> 
 	<h3>Profile Views</h3> 
 	<img src="https://komarev.com/ghpvc/?username=bekzatbb&label=Profile%20views&color=42b883&style=flat" alt="bekzatbb" /> 
 </p>
-
-<br>
-
-- 💻 I’m Web Developer
-- 📫 How To Reach Me **noobilis@protonmail.com**
-
-<br>
 
 <h1>Technology Stack</h1>
 
