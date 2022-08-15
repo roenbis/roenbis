@@ -37,7 +37,7 @@
 
 <br>
 
-<summary><b>GitHub Profile Stats</b></summary>
+
 
 <br/>
 
