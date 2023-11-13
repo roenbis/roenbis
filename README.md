@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bekzat.bagdatuly03@gmail.com**
 
-- ⚡ Fun fact **There’s nothing you can’t do if you try**
+- ⚡ **There’s nothing you can’t do if you try**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
