@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/bekzat-bagdatuly-45a623236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bekzat-bagdatuly-45a623236/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_mtfckstarboy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_mtfckstarboy/" height="30" width="40" /></a>
-<a href="https://t.me/roenbis" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_19-telegram-512.png" alt="https://t.me/roenbis" height="30" width="40" /></a>
+<a href="https://t.me/roenbis" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F82%2FTelegram_logo.svg%2F1024px-Telegram_logo.svg.png&f=1&nofb=1&ipt=fe8366ab1dc382148b706b86f86eaad5aff766753e968d732f920b100ddb095e&ipo=images" alt="https://t.me/roenbis" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
