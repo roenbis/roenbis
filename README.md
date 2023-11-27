@@ -1,7 +1,7 @@
-<iframe src="https://giphy.com/embed/kl5ctZSctCbE4" width="480" height="334" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/green-monochrome-code-kl5ctZSctCbE4">via GIPHY</a></p>
+
 <h1 align="center">Hi 👋, I'm Dosken Bekzat Bagdatuly</h1>
 <h3 align="center">Fullstack web-developer from Qazaqstan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GOj9ZF_-ZOcAAAAC/cat.gif">
 
 - 🔭 I’m currently working on **Nomad Studio**
 
