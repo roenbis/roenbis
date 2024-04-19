@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bekzat and I'm a Fullstack Web Developer, from Almaty, Kazakhstan</h2>
+<h2 align="left">Salam 👋!</h2>
 
 ###
 
