@@ -2,7 +2,7 @@
   <a href="https://www.google.kz"><img src="https://media1.tenor.com/m/XKCNoEfUT5AAAAAd/jjba-jojos-bizarre-adventure.gif" alt="Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://www.google.kz">Dosken Bekzat</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://www.google.kz">Dosken Bekzat Bagdatuly</a>!</h1>
 <h1 align="center">~Welcome to my GitHub profile~</h1>
 
 <p align="center">
@@ -22,5 +22,5 @@
   <strong><a href="https://www.linkedin.com/in/">LinkedIn</a></strong> 
 </p>
 
-<p align="center">❤ I'm currently working on Software Engineering ...</p>
+<img src="https://raw.githubusercontent.com/roenbis/roenbis/output/snake.svg" alt="Snake animation" />
 
