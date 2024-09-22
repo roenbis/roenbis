@@ -14,7 +14,6 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://www.google.kz">Official Website</a></strong> |
   <strong><a href="https://instagram.com/">Instagram</a></strong> |
   <strong><a href="https://instagram.com/">Telegram</a></strong> |
   <strong><a href="https://instagram.com/">Tiktok</a></strong> |
