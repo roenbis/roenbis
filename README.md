@@ -2,7 +2,7 @@
   <a href="https://www.google.kz"><img src="https://media1.tenor.com/m/XKCNoEfUT5AAAAAd/jjba-jojos-bizarre-adventure.gif" alt="Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://www.google.kz">Dosken Bekzat Bagdatuly</a>!</h1>
+<h1 align="center">Hi, I'm Dosken Bekzat Bagdatuly!</h1>
 <h1 align="center">~Welcome to my GitHub profile~</h1>
 
 <p align="center">
@@ -14,11 +14,9 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://instagram.com/">Instagram</a></strong> |
-  <strong><a href="https://instagram.com/">Telegram</a></strong> |
-  <strong><a href="https://instagram.com/">Tiktok</a></strong> |
-  <strong><a href="https://discord.gg/">Discord</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/">LinkedIn</a></strong> 
+  <strong><a href="https://www.instagram.com/thenotoriousbeks/">Instagram</a></strong> |
+  <strong><a href="https://t.me/roenbis">Telegram</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/bekzat-bagdatuly-45a623236/">LinkedIn</a></strong> 
 </p>
 
 <img src="https://raw.githubusercontent.com/roenbis/roenbis/output/snake.svg" alt="Snake animation" />
