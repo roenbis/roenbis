@@ -19,5 +19,5 @@
   <strong><a href="https://www.linkedin.com/in/bekzat-bagdatuly-45a623236/">LinkedIn</a></strong> 
 </p>
 
-<img src="https://raw.githubusercontent.com/roenbis/roenbis/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/roenbis/roenbis/output/snake.svg" alt="Snake animation" /> -->
 
