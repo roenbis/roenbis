@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://t.me/roenbis">Telegram</a></strong>
+  <a href="https://t.me/bekx69" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram"/>
+  </a>
 </p>
 
 <img src="https://raw.githubusercontent.com/roenbis/roenbis/output/snake.svg" alt="Snake animation" />
